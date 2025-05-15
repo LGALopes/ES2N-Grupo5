@@ -1,7 +1,0 @@
-Favor verificar todas as anotações que foram realizadas com o Guilherme Victaliano.
-
-Entregar dia 07/05
-Nova versão lista requisitos
-Nova versão Diagrama de caso de uso (usar ferramenta própria)
-Fazer Descrição de Caso de Uso
-Fazer Diagrama de Classes 
